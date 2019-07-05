@@ -1,8 +1,6 @@
 site_name: 名侦探柯南
 pages:
-
 - MainPage：index.md
-
 - Go：about.md
 
 theme: readthedocs
